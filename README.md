@@ -236,4 +236,4 @@ This project is open source. Feel free to modify and use!
 - **Python** - Backend
 
 ---
-author - Situ Kumari
+Author - Situ Kumari
